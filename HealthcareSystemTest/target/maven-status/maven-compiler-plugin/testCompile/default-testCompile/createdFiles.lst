@@ -1,0 +1,4 @@
+com\healthcare\test\AIassistantTest.class
+com\healthcare\test\DoctorTest.class
+com\healthcare\test\AppointmentTest.class
+com\healthcare\test\PatientTest.class
